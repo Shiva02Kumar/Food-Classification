@@ -1,6 +1,6 @@
 # Food-Classification
 
-# Group Number: 3
+Group Number: 3
 
 # Team Members: 
               1. Shiva Kumar
