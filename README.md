@@ -1,7 +1,8 @@
 # Food-Classification
 
-Group Number: 3
-Team Members: 
+# Group Number: 3
+
+# Team Members: 
               1. Shiva Kumar
               2. Tanishq Shukla
               3. Prateek Bhardwaj
