@@ -21,7 +21,7 @@ An instant impression is made with the first bite of a new food or taste of drin
 
 # Important Sources
 
-Download the saved model folder through Google Drive: https://drive.google.com/drive/folders/1bGKxzsoZfMI-bvaFQ35qpJy0ANgnyWGG?usp=sharing
+Download the saved model folder through Google Drive and paste it in project directoy: https://drive.google.com/drive/folders/1bGKxzsoZfMI-bvaFQ35qpJy0ANgnyWGG?usp=sharing
 
 # How to run this Project:
 1. This is a Django based project so you need to install django by writing command in terminal: "pip install django" and install the required python packages to run this project
